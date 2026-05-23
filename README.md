@@ -1,1 +1,3 @@
 # LK_Motor
+
+既存のLK_MotorライブラリにCAN_Managerを対応させたバージョン
